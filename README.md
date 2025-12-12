@@ -82,7 +82,8 @@ npm run dev
 
 3. Follow the prompts to describe your work.
    - **Note:** The bot now uploads your metadata to **IPFS** automatically!
-   
+   <img width="361" height="755" alt="swappy-20251212-154342" src="https://github.com/user-attachments/assets/7bc5ec34-4c81-4538-93e2-5d6ce792a436" />
+
 4. Bot registers it on Story Protocol, attaches **License Terms**, and starts monitoring.
 
 5. Get alerts when potential infringements are detected on **Google** or **Twitter**.
