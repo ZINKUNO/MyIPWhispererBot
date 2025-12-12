@@ -90,7 +90,8 @@ npm run dev
 
 ## 🏗️ Architecture
 
-![IP Whisperer Architecture](ip_whisperer_architecture.png)
+<img width="1169" height="638" alt="image" src="https://github.com/user-attachments/assets/01d9a3e8-980b-4fed-b5d4-7c6ea6b048b5" />
+
 
 ```
 User (Telegram)
