@@ -1,3 +1,5 @@
+<img width="445" height="366" alt="image" src="https://github.com/user-attachments/assets/55152bb7-91fe-47af-948d-25e6042b3145" />
+
 # 🤫 IP Whisperer: Chatty Alert Agent for Viral Infringement Sniffing
 
 **Track:** IP Detection & Enforcement | **Buildathon:** Surreal World Assets (Story Protocol)
