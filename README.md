@@ -89,8 +89,8 @@ npm run dev
 - `/help` - Show all commands
 
 ## 🏗️ Architecture
+<img width="1169" height="638" alt="swappy-20251212-132052" src="https://github.com/user-attachments/assets/9e787203-ea8c-4e58-a22d-16139c4027e5" />
 
-<img width="1169" height="638" alt="image" src="https://github.com/user-attachments/assets/01d9a3e8-980b-4fed-b5d4-7c6ea6b048b5" />
 
 
 ```
