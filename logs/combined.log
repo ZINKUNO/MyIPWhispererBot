@@ -1,0 +1,923 @@
+2025-12-10 16:38:37 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-10 16:38:38 [info]: 🤖 Starting bot...
+2025-12-10 16:38:38 [info]: 🚀 Initializing IP Whisperer Agent...
+2025-12-10 16:38:38 [info]: Initializing Story Protocol client...
+2025-12-10 16:38:38 [warn]: ⚠️  Story SDK initialization failed, enabling mock mode {"error":"ChainId undefined not supported"}
+2025-12-10 16:38:38 [info]: ✅ Story Protocol client initialized (FALLBACK MOCK MODE)
+2025-12-10 16:38:38 [info]: ⏰ Background scanning started (every 5 minutes)
+2025-12-10 16:38:38 [info]: ✅ Agent orchestrator ready!
+2025-12-10 16:38:45 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-10 16:38:45 [info]: 🤖 Starting bot...
+2025-12-10 16:38:45 [info]: 🚀 Initializing IP Whisperer Agent...
+2025-12-10 16:38:45 [info]: Initializing Story Protocol client...
+2025-12-10 16:38:45 [warn]: ⚠️  Story SDK initialization failed, enabling mock mode {"error":"ChainId undefined not supported"}
+2025-12-10 16:38:45 [info]: ✅ Story Protocol client initialized (FALLBACK MOCK MODE)
+2025-12-10 16:38:45 [info]: ⏰ Background scanning started (every 5 minutes)
+2025-12-10 16:38:45 [info]: ✅ Agent orchestrator ready!
+2025-12-10 16:38:47 [error]: Fatal {"error":"409: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}
+2025-12-10 16:39:06 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-10 16:39:06 [info]: 🤖 Starting bot...
+2025-12-10 16:39:06 [info]: 🚀 Initializing IP Whisperer Agent...
+2025-12-10 16:39:06 [info]: Initializing Story Protocol client...
+2025-12-10 16:39:06 [warn]: ⚠️  Story SDK initialization failed, enabling mock mode {"error":"ChainId undefined not supported"}
+2025-12-10 16:39:06 [info]: ✅ Story Protocol client initialized (FALLBACK MOCK MODE)
+2025-12-10 16:39:06 [info]: ⏰ Background scanning started (every 5 minutes)
+2025-12-10 16:39:06 [info]: ✅ Agent orchestrator ready!
+2025-12-10 16:39:08 [error]: Fatal {"error":"409: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}
+2025-12-10 16:40:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 16:40:00 [info]: ✅ Scheduled scan complete
+2025-12-10 16:43:46 [info]: 🛡️ Processing IP protection request... {"userId":"1718821080"}
+2025-12-10 16:43:46 [info]: 📝 Registering IP on Story Protocol... {"name":"ktop song"}
+2025-12-10 16:43:46 [info]: ✅ IP registered successfully (MOCK)! {"ipId":"0xMOCK_IP_1765365226215","txHash":"0xMOCK_TX_1765365226215"}
+2025-12-10 16:43:46 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 16:43:46 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"ktop song"}
+2025-12-10 16:43:46 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 16:43:46 [info]: ✅ Twitter scan complete: 0 potential matches found
+2025-12-10 16:43:46 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-10 16:43:46 [info]: ✅ IP protection activated {"ipId":"0xMOCK_IP_1765365226215","matches":0}
+2025-12-10 16:45:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 16:45:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 16:45:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"ktop song"}
+2025-12-10 16:45:00 [debug]: 📦 Returning cached Twitter results
+2025-12-10 16:45:00 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 16:45:00 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-10 16:45:00 [info]: ✅ Scheduled scan complete
+2025-12-10 16:50:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 16:50:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 16:50:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"ktop song"}
+2025-12-10 16:50:00 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 16:50:12 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-10 16:50:12 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 429"}
+2025-12-10 16:50:12 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-10 16:50:12 [info]: ✅ Scheduled scan complete
+2025-12-10 16:55:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 16:55:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 16:55:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"ktop song"}
+2025-12-10 16:55:00 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 16:55:01 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-10 16:55:01 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 429"}
+2025-12-10 16:55:01 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-10 16:55:01 [info]: ✅ Scheduled scan complete
+2025-12-10 17:00:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 17:00:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 17:00:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"ktop song"}
+2025-12-10 17:00:00 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 17:00:34 [error]: ❌ Twitter API error {"error":"Client network socket disconnected before secure TLS connection was established"}
+2025-12-10 17:00:34 [error]: ❌ Twitter scan failed {"error":"Client network socket disconnected before secure TLS connection was established"}
+2025-12-10 17:00:34 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-10 17:00:34 [info]: ✅ Scheduled scan complete
+2025-12-10 17:05:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 17:05:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 17:05:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"ktop song"}
+2025-12-10 17:05:00 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 17:05:20 [error]: ❌ Twitter API error {"error":"getaddrinfo EAI_AGAIN api.twitter.com"}
+2025-12-10 17:05:20 [error]: ❌ Twitter scan failed {"error":"getaddrinfo EAI_AGAIN api.twitter.com"}
+2025-12-10 17:05:20 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-10 17:05:20 [info]: ✅ Scheduled scan complete
+2025-12-10 17:10:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 17:10:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 17:10:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"ktop song"}
+2025-12-10 17:10:00 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 17:10:30 [error]: ❌ Twitter API error {"error":"Client network socket disconnected before secure TLS connection was established"}
+2025-12-10 17:10:30 [error]: ❌ Twitter scan failed {"error":"Client network socket disconnected before secure TLS connection was established"}
+2025-12-10 17:10:30 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-10 17:10:30 [info]: ✅ Scheduled scan complete
+2025-12-10 17:15:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 17:15:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 17:15:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"ktop song"}
+2025-12-10 17:15:00 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 17:15:21 [info]: ✅ Twitter scan complete: 0 potential matches found
+2025-12-10 17:15:21 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-10 17:15:21 [info]: ✅ Scheduled scan complete
+2025-12-10 17:20:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 17:20:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 17:20:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"ktop song"}
+2025-12-10 17:20:00 [debug]: 📦 Returning cached Twitter results
+2025-12-10 17:20:00 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 17:20:00 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-10 17:20:00 [info]: ✅ Scheduled scan complete
+2025-12-10 17:25:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 17:25:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 17:25:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"ktop song"}
+2025-12-10 17:25:00 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 17:25:10 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-10 17:25:10 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 429"}
+2025-12-10 17:25:10 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-10 17:25:10 [info]: ✅ Scheduled scan complete
+2025-12-10 17:30:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 17:30:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 17:30:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"ktop song"}
+2025-12-10 17:30:00 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 17:30:20 [error]: ❌ Twitter API error {"error":"getaddrinfo EAI_AGAIN api.twitter.com"}
+2025-12-10 17:30:20 [error]: ❌ Twitter scan failed {"error":"getaddrinfo EAI_AGAIN api.twitter.com"}
+2025-12-10 17:30:20 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-10 17:30:20 [info]: ✅ Scheduled scan complete
+2025-12-10 17:35:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 17:35:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 17:35:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"ktop song"}
+2025-12-10 17:35:00 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 17:35:07 [info]: ✅ Twitter scan complete: 0 potential matches found
+2025-12-10 17:35:07 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-10 17:35:07 [info]: ✅ Scheduled scan complete
+2025-12-10 17:40:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 17:40:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 17:40:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"ktop song"}
+2025-12-10 17:40:00 [debug]: 📦 Returning cached Twitter results
+2025-12-10 17:40:00 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 17:40:00 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-10 17:40:00 [info]: ✅ Scheduled scan complete
+2025-12-10 17:40:17 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-10 17:40:17 [info]: 🤖 Starting bot...
+2025-12-10 17:40:17 [info]: 🚀 Initializing IP Whisperer Agent...
+2025-12-10 17:40:17 [info]: Initializing Story Protocol client...
+2025-12-10 17:40:17 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-10 17:40:17 [info]: ⏰ Background scanning started (every 5 minutes)
+2025-12-10 17:40:17 [info]: ✅ Agent orchestrator ready!
+2025-12-10 17:40:18 [error]: Fatal {"error":"409: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}
+2025-12-10 17:45:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 17:45:00 [info]: ✅ Scheduled scan complete
+2025-12-10 17:50:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 17:50:00 [info]: ✅ Scheduled scan complete
+2025-12-10 17:50:15 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-10 17:50:15 [info]: 🤖 Starting bot...
+2025-12-10 17:50:15 [info]: 🚀 Initializing IP Whisperer Agent...
+2025-12-10 17:50:15 [info]: Initializing Story Protocol client...
+2025-12-10 17:50:15 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-10 17:50:15 [info]: ⏰ Background scanning started (every 5 minutes)
+2025-12-10 17:50:15 [info]: ✅ Agent orchestrator ready!
+2025-12-10 17:50:22 [error]: Fatal {"error":"409: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}
+2025-12-10 17:50:27 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-10 17:50:27 [info]: 🤖 Starting bot...
+2025-12-10 17:50:27 [info]: 🚀 Initializing IP Whisperer Agent...
+2025-12-10 17:50:27 [info]: Initializing Story Protocol client...
+2025-12-10 17:50:27 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-10 17:50:27 [info]: ⏰ Background scanning started (every 5 minutes)
+2025-12-10 17:50:27 [info]: ✅ Agent orchestrator ready!
+2025-12-10 17:53:14 [info]: 🛡️ Processing IP protection request... {"userId":"1718821080"}
+2025-12-10 17:53:14 [info]: 📝 Registering IP on Story Protocol... {"name":"mountain with train art"}
+2025-12-10 17:53:24 [error]: ❌ IP registration failed {"error":"Failed to register IP: The contract function \"register\" reverted.\n\nError: IPAssetRegistry__UnsupportedIERC721(address contractAddress)\n                                          (0x041B4F29183317Fd352AE57e331154947142aeD3)\n \nContract Call:\n  address:   0x77319B4031e6eF1250907aa00018B8B1c67a244b\n  function:  register(uint256 chainid, address tokenContract, uint256 tokenId)\n  args:              (1315, 0x041B4F29183317Fd352AE57e331154947142aeD3, 1765369394314)\n  sender:    0xAd0799D4D6564c945C448D8BcFA890c41e111A98\n\nDocs: https://viem.sh/docs/contract/simulateContract\nVersion: viem@2.41.2"}
+2025-12-10 17:55:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 17:55:00 [info]: ✅ Scheduled scan complete
+2025-12-10 18:00:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 18:00:00 [info]: ✅ Scheduled scan complete
+2025-12-10 18:00:52 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-10 18:00:52 [info]: 🤖 Starting bot...
+2025-12-10 18:00:52 [info]: 🚀 Initializing IP Whisperer Agent...
+2025-12-10 18:00:52 [info]: Initializing Story Protocol client...
+2025-12-10 18:00:52 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-10 18:00:52 [info]: ⏰ Background scanning started (every 5 minutes)
+2025-12-10 18:00:52 [info]: ✅ Agent orchestrator ready!
+2025-12-10 18:00:53 [error]: Fatal {"error":"409: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}
+2025-12-10 18:01:48 [info]: 🛡️ Processing IP protection request... {"userId":"1718821080"}
+2025-12-10 18:01:48 [info]: 📝 Registering IP on Story Protocol... {"name":"kimate"}
+2025-12-10 18:01:55 [error]: ❌ IP registration failed {"error":"Failed to register IP: The contract function \"register\" reverted.\n\nError: IPAssetRegistry__UnsupportedIERC721(address contractAddress)\n                                          (0x041B4F29183317Fd352AE57e331154947142aeD3)\n \nContract Call:\n  address:   0x77319B4031e6eF1250907aa00018B8B1c67a244b\n  function:  register(uint256 chainid, address tokenContract, uint256 tokenId)\n  args:              (1315, 0x041B4F29183317Fd352AE57e331154947142aeD3, 1765369908517)\n  sender:    0xAd0799D4D6564c945C448D8BcFA890c41e111A98\n\nDocs: https://viem.sh/docs/contract/simulateContract\nVersion: viem@2.41.2"}
+2025-12-10 18:05:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 18:05:00 [info]: ✅ Scheduled scan complete
+2025-12-10 18:06:43 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-10 18:06:43 [info]: Initializing Story Protocol client...
+2025-12-10 18:06:43 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-10 18:06:43 [info]: 📝 Registering IP on Story Protocol... {"name":"Sigma Music Remix"}
+2025-12-10 18:06:52 [error]: ❌ IP registration failed {"error":"Do not know how to serialize a BigInt"}
+2025-12-10 18:07:57 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-10 18:07:57 [info]: Initializing Story Protocol client...
+2025-12-10 18:07:57 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-10 18:07:57 [info]: 📝 Registering IP on Story Protocol... {"name":"Sigma Music Remix"}
+2025-12-10 18:08:06 [info]: ✅ IP registered successfully! {"ipId":"0xd0b2ac542BF5378D068e5564BaF5Cf4C1f59861D","txHash":"0x64a4866360e2d4a4912df379cd1f9a0da53839759e75693f992a3f56540aff46","tokenId":"3727"}
+2025-12-10 18:08:06 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 18:08:06 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-10 18:08:06 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 18:08:07 [info]: ✅ Twitter scan complete: 0 potential matches found
+2025-12-10 18:08:31 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-10 18:08:31 [info]: 🤖 Starting bot...
+2025-12-10 18:08:31 [info]: 🚀 Initializing IP Whisperer Agent...
+2025-12-10 18:08:31 [info]: Initializing Story Protocol client...
+2025-12-10 18:08:31 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-10 18:08:31 [info]: ⏰ Background scanning started (every 5 minutes)
+2025-12-10 18:08:31 [info]: ✅ Agent orchestrator ready!
+2025-12-10 18:08:38 [error]: Fatal {"error":"409: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}
+2025-12-10 18:10:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 18:10:00 [info]: ✅ Scheduled scan complete
+2025-12-10 18:11:04 [info]: 🛡️ Processing IP protection request... {"userId":"1718821080"}
+2025-12-10 18:11:04 [info]: 📝 Registering IP on Story Protocol... {"name":"Abama Remix Music"}
+2025-12-10 18:11:13 [info]: ✅ IP registered successfully! {"ipId":"0x4E63d2D5853463BE3C0d05fa79F791B5168cEB30","txHash":"0x70fbce485ed8d3f1424c30ff104ab44f568fb0ef3bb5620f1876d0a2b41d32ca","tokenId":"3728"}
+2025-12-10 18:11:13 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 18:11:13 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Abama Remix Music"}
+2025-12-10 18:11:13 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 18:11:14 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-10 18:11:14 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 429"}
+2025-12-10 18:11:14 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-10 18:11:14 [info]: ✅ IP protection activated {"ipId":"0x4E63d2D5853463BE3C0d05fa79F791B5168cEB30","matches":0}
+2025-12-10 18:15:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 18:15:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 18:15:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Abama Remix Music"}
+2025-12-10 18:15:00 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 18:15:06 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-10 18:15:06 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 429"}
+2025-12-10 18:15:06 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-10 18:15:06 [info]: ✅ Scheduled scan complete
+2025-12-10 18:21:32 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-10 18:21:32 [info]: 🤖 Starting bot...
+2025-12-10 18:21:32 [info]: 🚀 Initializing IP Whisperer Agent...
+2025-12-10 18:21:32 [info]: Initializing Story Protocol client...
+2025-12-10 18:21:32 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-10 18:21:32 [info]: ⏰ Background scanning started (every 5 minutes)
+2025-12-10 18:21:32 [info]: ✅ Agent orchestrator ready!
+2025-12-10 18:23:02 [info]: 🛡️ Processing IP protection request... {"userId":"1718821080"}
+2025-12-10 18:23:02 [info]: 📝 Registering IP on Story Protocol... {"name":"web3 Techknowlege Agent"}
+2025-12-10 18:23:40 [info]: ✅ IP registered successfully! {"ipId":"0x58bF1aB5c6E510dFF2c33c578D7b8d08309CEa0C","txHash":"0xb5ea84da1c36f98f6cd2bc24afb709a4e87fc32497b1c0633e280999b4e4cb77","tokenId":"3729"}
+2025-12-10 18:23:40 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 18:23:40 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"web3 Techknowlege Agent"}
+2025-12-10 18:23:40 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 18:23:41 [info]: ✅ Twitter scan complete: 0 potential matches found
+2025-12-10 18:23:41 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-10 18:23:41 [info]: ✅ IP protection activated {"ipId":"0x58bF1aB5c6E510dFF2c33c578D7b8d08309CEa0C","matches":0}
+2025-12-10 18:25:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 18:25:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 18:25:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"web3 Techknowlege Agent"}
+2025-12-10 18:25:00 [debug]: 📦 Returning cached Twitter results
+2025-12-10 18:25:00 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 18:25:00 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-10 18:25:00 [info]: ✅ Scheduled scan complete
+2025-12-10 18:30:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 18:30:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 18:30:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"web3 Techknowlege Agent"}
+2025-12-10 18:30:00 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 18:30:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-10 18:31:02 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-10 18:32:02 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-10 18:33:03 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-10 18:33:03 [warn]: ⚠️ Twitter API failed, falling back to mock data {"error":"Request failed with status code 429"}
+2025-12-10 18:33:03 [info]: ✅ Twitter scan complete: 1 potential matches found
+2025-12-10 18:33:03 [info]: ✅ Comprehensive scan complete: 1 total matches
+2025-12-10 18:33:03 [warn]: ⚠️ Found 1 potential infringements for web3 Techknowlege Agent {"ipId":"0x58bF1aB5c6E510dFF2c33c578D7b8d08309CEa0C"}
+2025-12-10 18:33:03 [info]: ✅ Scheduled scan complete
+2025-12-10 18:35:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-10 18:35:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-10 18:35:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"web3 Techknowlege Agent"}
+2025-12-10 18:35:00 [debug]: 📦 Returning cached Twitter results
+2025-12-10 18:35:00 [warn]: ⚠️ TikTok scanning not yet implemented
+2025-12-10 18:35:00 [info]: ✅ Comprehensive scan complete: 1 total matches
+2025-12-10 18:35:00 [warn]: ⚠️ Found 1 potential infringements for web3 Techknowlege Agent {"ipId":"0x58bF1aB5c6E510dFF2c33c578D7b8d08309CEa0C"}
+2025-12-10 18:35:00 [info]: ✅ Scheduled scan complete
+2025-12-10 18:36:19 [info]: 🚨 Initiating enforcement action... {"ipId":"0x58bF1aB5c6E510dFF2c33c578D7b8d08309CEa0C","violationUrl":"https://twitter.com/viral_user/status/123456789"}
+2025-12-10 18:36:19 [info]: ✍️  Generating enforcement message... {"tone":"friendly","provider":"ABV"}
+2025-12-10 18:36:19 [debug]: 🚀 Using ABV gateway (GenAI Challenge mode)
+2025-12-10 18:36:25 [warn]: ⚠️  ABV generation failed, falling back to OpenAI {"error":"Invalid credentials"}
+2025-12-10 18:36:25 [debug]: Using direct OpenAI API
+2025-12-10 18:36:27 [error]: ❌ Failed to generate enforcement message {"error":"401 Incorrect API key provided: sk-your_***********here. You can find your API key at https://platform.openai.com/account/api-keys."}
+2025-12-10 18:36:27 [info]: 🚨 Creating dispute for IP infringement... {"ipId":"0x58bF1aB5c6E510dFF2c33c578D7b8d08309CEa0C"}
+2025-12-10 18:36:27 [error]: ❌ Dispute creation failed {"error":"Failed to raise dispute: Cannot convert undefined to a BigInt"}
+2025-12-10 18:36:45 [debug]: 📤 Alert sent to webhook
+2025-12-10 18:36:45 [info]: ✅ Enforcement action completed {}
+2025-12-11 11:09:24 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 11:09:24 [info]: Initializing Story Protocol client...
+2025-12-11 11:09:24 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 11:09:24 [info]: 📝 Registering IP on Story Protocol... {"name":"Sigma Music Remix"}
+2025-12-11 11:09:43 [info]: ✅ IP registered successfully! {"ipId":"0x2aF6369ba6A769A63C451961288d48623657a430","txHash":"0x15695f7ecde655a33bd588642655b9fb50d1014e09ef58d1dcfc934d92dc9fcf","tokenId":"3763"}
+2025-12-11 11:09:43 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 11:09:43 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 11:09:43 [info]: 🎵 Scanning TikTok for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 11:09:44 [info]: ✅ TikTok scan complete: 0 potential matches found
+2025-12-11 11:09:46 [info]: ✅ Twitter scan complete: 0 potential matches found
+2025-12-11 11:13:48 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 11:13:48 [info]: Initializing Story Protocol client...
+2025-12-11 11:13:48 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 11:13:48 [info]: 📝 Registering IP on Story Protocol... {"name":"Sigma Music Remix"}
+2025-12-11 11:13:59 [info]: ✅ IP registered successfully! {"ipId":"0x279B1007E3b56D68f332Bf419b815544bD218cF9","txHash":"0x3b8010a56e884a6de6d94aa7dfe9fac6f49faece9f1a6fa5e3be6ed6da9cbe0f","tokenId":"3764"}
+2025-12-11 11:13:59 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 11:13:59 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 11:13:59 [info]: 🎵 Scanning TikTok for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 11:14:01 [info]: ✅ TikTok scan complete: 0 potential matches found
+2025-12-11 11:14:05 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 11:15:05 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 11:16:06 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-11 11:17:06 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-11 11:22:01 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 11:22:01 [info]: Initializing Story Protocol client...
+2025-12-11 11:22:01 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 11:22:01 [info]: 📝 Registering IP on Story Protocol... {"name":"Sigma Music Remix"}
+2025-12-11 11:22:10 [info]: ✅ IP registered successfully! {"ipId":"0xAfc95A27080aE5f2bF41AfE9Af31c8246De0234E","txHash":"0x49398c66002e34bbe4f55e01e9acac010d13e3d2fbb51ef837c82937844c45e7","tokenId":"3765"}
+2025-12-11 11:22:10 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 11:22:10 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 11:22:10 [info]: 🎵 Scanning TikTok for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 11:22:11 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 11:22:12 [debug]: Similarity score: 0.64 for content: Dancing to this leaked track "...
+2025-12-11 11:22:12 [info]: ✅ TikTok scan complete: 0 potential matches found
+2025-12-11 11:23:11 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 11:24:12 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-11 11:24:46 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 11:24:46 [info]: Initializing Story Protocol client...
+2025-12-11 11:24:46 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 11:24:46 [info]: 📝 Registering IP on Story Protocol... {"name":"Sigma Music Remix"}
+2025-12-11 11:24:54 [info]: ✅ IP registered successfully! {"ipId":"0x7f0984Fe4688f1effD9CCC2163FC841E3fc30eC6","txHash":"0x526c52dfbdb382ec656be95451984b00d98ada12f36e9f069d2c4070721c5181","tokenId":"3766"}
+2025-12-11 11:24:54 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 11:24:54 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 11:24:54 [warn]: ⚠️ Twitter API not configured, using mock data
+2025-12-11 11:24:54 [info]: 🎵 Scanning TikTok for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 11:24:54 [debug]: Similarity score: 0.71 for content: Just found this crazy beat "Si...
+2025-12-11 11:24:54 [debug]: Similarity score: 0.71 for content: Just found this crazy beat "Si...
+2025-12-11 11:24:54 [info]: ✅ Twitter scan complete: 2 potential matches found
+2025-12-11 11:24:56 [debug]: Similarity score: 0.64 for content: Dancing to this leaked track "...
+2025-12-11 11:24:56 [debug]: Similarity score: 0.64 for content: Dancing to this leaked track "...
+2025-12-11 11:24:56 [info]: ✅ TikTok scan complete: 2 potential matches found
+2025-12-11 11:24:56 [info]: ✅ Comprehensive scan complete: 4 total matches
+2025-12-11 11:24:56 [info]: ✍️  Generating enforcement message... {"tone":"friendly","provider":"ABV"}
+2025-12-11 11:24:56 [debug]: 🚀 Using ABV gateway (GenAI Challenge mode)
+2025-12-11 11:25:08 [info]: ✅ Enforcement message generated via ABV
+2025-12-11 11:25:08 [info]: ✍️  Generating enforcement message... {"tone":"formal","provider":"ABV"}
+2025-12-11 11:25:08 [debug]: 🚀 Using ABV gateway (GenAI Challenge mode)
+2025-12-11 11:25:12 [debug]: Similarity score: 0.05 for content: RT @cakesuniq: Hello! We are h...
+2025-12-11 11:25:17 [info]: ✅ Enforcement message generated via ABV
+2025-12-11 11:25:17 [info]: ✍️  Generating enforcement message... {"tone":"vibe","provider":"ABV"}
+2025-12-11 11:25:17 [debug]: 🚀 Using ABV gateway (GenAI Challenge mode)
+2025-12-11 11:25:27 [info]: ✅ Enforcement message generated via ABV
+2025-12-11 12:21:24 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 12:21:24 [info]: Initializing Story Protocol client...
+2025-12-11 12:21:24 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 12:21:24 [info]: 📝 Registering IP on Story Protocol... {"name":"Sigma Music Remix"}
+2025-12-11 12:21:33 [info]: ✅ IP registered successfully! {"ipId":"0xAC91BEe6Bf4C365D2CDcd742Fd9Be1AEf7c07Aa6","txHash":"0xfae489c4f15b097029b5316e0bb98361c1ad526427b98cc3d5bdec0336e03bf0","tokenId":"3767"}
+2025-12-11 12:21:33 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 12:21:33 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 12:21:33 [warn]: ⚠️ Twitter API not configured, using mock data
+2025-12-11 12:21:33 [info]: 🎵 Scanning TikTok for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 12:21:33 [debug]: Similarity score: 0.71 for content: Just found this crazy beat "Si...
+2025-12-11 12:21:33 [info]: ✅ Twitter scan complete: 1 potential matches found
+2025-12-11 12:21:34 [debug]: Similarity score: 0.64 for content: Dancing to this leaked track "...
+2025-12-11 12:21:34 [debug]: Similarity score: 0.64 for content: Dancing to this leaked track "...
+2025-12-11 12:21:34 [info]: ✅ TikTok scan complete: 2 potential matches found
+2025-12-11 12:21:34 [info]: ✅ Comprehensive scan complete: 3 total matches
+2025-12-11 12:21:34 [info]: ✍️  Generating enforcement message... {"tone":"friendly","provider":"ABV"}
+2025-12-11 12:21:34 [debug]: 🚀 Using ABV gateway (GenAI Challenge mode)
+2025-12-11 12:21:49 [info]: ✅ Enforcement message generated via ABV
+2025-12-11 12:21:49 [info]: ✍️  Generating enforcement message... {"tone":"formal","provider":"ABV"}
+2025-12-11 12:21:49 [debug]: 🚀 Using ABV gateway (GenAI Challenge mode)
+2025-12-11 12:21:58 [info]: ✅ Enforcement message generated via ABV
+2025-12-11 12:21:58 [info]: ✍️  Generating enforcement message... {"tone":"vibe","provider":"ABV"}
+2025-12-11 12:21:58 [debug]: 🚀 Using ABV gateway (GenAI Challenge mode)
+2025-12-11 12:22:07 [info]: ✅ Enforcement message generated via ABV
+2025-12-11 12:23:23 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 12:39:24 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 12:39:24 [info]: Initializing Story Protocol client...
+2025-12-11 12:39:24 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 12:39:24 [info]: 📝 Registering IP on Story Protocol... {"name":"Sigma Music Remix"}
+2025-12-11 12:39:39 [info]: ✅ IP registered successfully! {"ipId":"0x03B3F650fa8f2889b019196ea751A1dBD5606afc","txHash":"0x52e286ea3153083c1adfac4f10fd4ea5f61227c4ccbf0e34c5b7959efdd569e9","tokenId":"3768"}
+2025-12-11 12:39:39 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 12:39:39 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 12:39:39 [warn]: ⚠️ Twitter API not configured, using mock data
+2025-12-11 12:39:39 [info]: 🎵 Scanning TikTok for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 12:39:39 [debug]: Similarity score: 0.71 for content: Just found this crazy beat "Si...
+2025-12-11 12:39:39 [debug]: Similarity score: 0.71 for content: Just found this crazy beat "Si...
+2025-12-11 12:39:39 [info]: ✅ Twitter scan complete: 2 potential matches found
+2025-12-11 12:39:40 [debug]: Similarity score: 0.64 for content: Dancing to this leaked track "...
+2025-12-11 12:39:40 [info]: ✅ TikTok scan complete: 1 potential matches found
+2025-12-11 12:39:40 [info]: ✅ Comprehensive scan complete: 3 total matches
+2025-12-11 12:39:40 [info]: ✍️  Generating enforcement message... {"tone":"friendly","provider":"ABV"}
+2025-12-11 12:39:40 [debug]: 🚀 Using ABV gateway (GenAI Challenge mode)
+2025-12-11 12:39:56 [info]: ✅ Enforcement message generated via ABV
+2025-12-11 12:39:56 [info]: ✍️  Generating enforcement message... {"tone":"formal","provider":"ABV"}
+2025-12-11 12:39:56 [debug]: 🚀 Using ABV gateway (GenAI Challenge mode)
+2025-12-11 12:40:07 [info]: ✅ Enforcement message generated via ABV
+2025-12-11 12:40:07 [info]: ✍️  Generating enforcement message... {"tone":"vibe","provider":"ABV"}
+2025-12-11 12:40:07 [debug]: 🚀 Using ABV gateway (GenAI Challenge mode)
+2025-12-11 12:40:16 [info]: ✅ Enforcement message generated via ABV
+2025-12-11 13:06:05 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 13:06:05 [info]: Initializing Story Protocol client...
+2025-12-11 13:06:05 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 13:06:05 [info]: 📝 Registering IP on Story Protocol... {"name":"Sigma Music Remix"}
+2025-12-11 13:06:16 [info]: ✅ IP registered successfully! {"ipId":"0x17eA1c9e9151bbFa94219A402F2Aae1BA1e28900","txHash":"0x116873c658bb28c8561f38256a5af9d1fcf8a35f1576b791745b9e67dbae1a22","tokenId":"3771"}
+2025-12-11 13:06:16 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 13:06:16 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 13:06:16 [warn]: ⚠️ Twitter API not configured, using mock data
+2025-12-11 13:06:16 [info]: 🎵 Scanning TikTok for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 13:06:16 [debug]: Similarity score: 0.71 for content: Just found this crazy beat "Si...
+2025-12-11 13:06:16 [info]: ✅ Twitter scan complete: 1 potential matches found
+2025-12-11 13:06:17 [debug]: Similarity score: 0.64 for content: Dancing to this leaked track "...
+2025-12-11 13:06:17 [debug]: Similarity score: 0.64 for content: Dancing to this leaked track "...
+2025-12-11 13:06:17 [info]: ✅ TikTok scan complete: 2 potential matches found
+2025-12-11 13:06:17 [info]: ✅ Comprehensive scan complete: 3 total matches
+2025-12-11 13:06:17 [info]: ✍️  Generating enforcement message... {"tone":"friendly","provider":"ABV"}
+2025-12-11 13:06:17 [debug]: 🚀 Using ABV gateway (GenAI Challenge mode)
+2025-12-11 13:06:29 [info]: ✅ Enforcement message generated via ABV
+2025-12-11 13:06:29 [info]: ✍️  Generating enforcement message... {"tone":"formal","provider":"ABV"}
+2025-12-11 13:06:29 [debug]: 🚀 Using ABV gateway (GenAI Challenge mode)
+2025-12-11 13:06:44 [info]: ✅ Enforcement message generated via ABV
+2025-12-11 13:06:44 [info]: ✍️  Generating enforcement message... {"tone":"vibe","provider":"ABV"}
+2025-12-11 13:06:44 [debug]: 🚀 Using ABV gateway (GenAI Challenge mode)
+2025-12-11 13:06:56 [info]: ✅ Enforcement message generated via ABV
+2025-12-11 13:22:12 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 13:22:12 [info]: Initializing Story Protocol client...
+2025-12-11 13:22:12 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 13:22:12 [info]: 📝 Registering IP on Story Protocol... {"name":"Sigma Music Remix"}
+2025-12-11 13:22:27 [info]: ✅ IP registered successfully! {"ipId":"0xE454ed78ac808B099E96aEA7cE3Be94e66DFa7f8","txHash":"0x86b227945f80529487604045126bc378fd6ed9342896d50bca06dd0ef3c4e3d1","tokenId":"3772"}
+2025-12-11 13:22:27 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 13:22:27 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 13:22:27 [warn]: ⚠️ Twitter API not configured, using mock data
+2025-12-11 13:22:27 [info]: 🎵 Scanning TikTok for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 13:22:27 [debug]: Similarity score: 0.71 for content: Just found this crazy beat "Si...
+2025-12-11 13:22:27 [debug]: Similarity score: 0.71 for content: Just found this crazy beat "Si...
+2025-12-11 13:22:27 [info]: ✅ Twitter scan complete: 2 potential matches found
+2025-12-11 13:22:28 [debug]: Similarity score: 0.64 for content: Dancing to this leaked track "...
+2025-12-11 13:22:28 [info]: ✅ TikTok scan complete: 1 potential matches found
+2025-12-11 13:22:28 [info]: ✅ Comprehensive scan complete: 3 total matches
+2025-12-11 13:22:28 [info]: ✍️  Generating enforcement message... {"tone":"friendly","provider":"ABV"}
+2025-12-11 13:22:28 [debug]: 🚀 Using ABV gateway (GenAI Challenge mode)
+2025-12-11 13:22:36 [info]: ✅ Enforcement message generated via ABV
+2025-12-11 13:22:36 [info]: ✍️  Generating enforcement message... {"tone":"formal","provider":"ABV"}
+2025-12-11 13:22:36 [debug]: 🚀 Using ABV gateway (GenAI Challenge mode)
+2025-12-11 13:22:45 [info]: ✅ Enforcement message generated via ABV
+2025-12-11 13:22:45 [info]: ✍️  Generating enforcement message... {"tone":"vibe","provider":"ABV"}
+2025-12-11 13:22:45 [debug]: 🚀 Using ABV gateway (GenAI Challenge mode)
+2025-12-11 13:22:59 [info]: ✅ Enforcement message generated via ABV
+2025-12-11 13:39:14 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 13:39:14 [info]: Initializing Story Protocol client...
+2025-12-11 13:39:14 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 13:39:14 [info]: 📝 Registering IP on Story Protocol... {"name":"Sigma Music Remix"}
+2025-12-11 13:39:29 [info]: ✅ IP registered successfully! {"ipId":"0x4560A5301f6684d35eB85EBF3f09B4f3CB58Eb88","txHash":"0x876bbf7c96f8b5004138e93a446c067c09b25bd4a36cca9b5fab0e3dba5e4a4a","tokenId":"3773"}
+2025-12-11 13:39:29 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 13:39:29 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 13:39:29 [error]: ❌ TikTok API not available - no public API exists for content scanning
+2025-12-11 13:39:34 [debug]: Similarity score: 0.06 for content: RT @ALD1_official: ALPHA DRIVE...
+2025-12-11 13:43:08 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 13:43:08 [info]: Initializing Story Protocol client...
+2025-12-11 13:43:08 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 13:43:08 [info]: 📝 Registering IP on Story Protocol... {"name":"Sigma Music Remix"}
+2025-12-11 13:43:18 [info]: ✅ IP registered successfully! {"ipId":"0xeD9Be16A0F23507d192899e84082c3D1903c68dC","txHash":"0x9a1a6d9c4b84eea1f812f697e59d6a81be6c96cb70460dd967cc42c2b0c9b267","tokenId":"3774"}
+2025-12-11 13:43:18 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 13:43:18 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 13:43:18 [error]: ❌ TikTok API not available - no public API exists for content scanning
+2025-12-11 13:43:19 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 13:44:19 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 13:45:20 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-11 13:46:20 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-11 13:46:52 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 13:47:41 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 13:47:41 [info]: Initializing Story Protocol client...
+2025-12-11 13:47:41 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 13:47:41 [info]: 📝 Registering IP on Story Protocol... {"name":"Sigma Music Remix"}
+2025-12-11 13:47:50 [info]: ✅ IP registered successfully! {"ipId":"0xe4b1E96eB21dBD1AEc51a15f769481FAeD3DE23e","txHash":"0x6be0f8942e119189eb7d551027a1e3114d0e3e2e89f7bac1b49e5a0e2e09a62e","tokenId":"3775"}
+2025-12-11 13:47:50 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 13:47:50 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 13:47:50 [error]: ❌ TikTok API not available - no public API exists for content scanning
+2025-12-11 13:47:51 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 13:53:49 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 13:53:49 [info]: Initializing Story Protocol client...
+2025-12-11 13:53:49 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 13:53:49 [info]: 📝 Registering IP on Story Protocol... {"name":"Sigma Music Remix"}
+2025-12-11 13:54:03 [info]: ✅ IP registered successfully! {"ipId":"0x4e817df9FfF10f8D63B15E825a413052806d9bB9","txHash":"0x9170745da982eaac2d0edde0e8e2a787217ded55a136c465d1e703bc285a0d81","tokenId":"3776"}
+2025-12-11 13:54:03 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 13:54:03 [info]: 🔍 Scanning Google for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 13:54:03 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 13:54:06 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 13:54:10 [error]: ❌ Google API error {"error":"Request failed with status code 400"}
+2025-12-11 13:54:10 [error]: ❌ Google scan failed {"error":"Request failed with status code 400"}
+2025-12-11 13:55:07 [debug]: Similarity score: 0.05 for content: RT @instablog9ja: Never let bi...
+2025-12-11 14:04:43 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 14:04:43 [info]: Initializing Story Protocol client...
+2025-12-11 14:04:43 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 14:04:43 [info]: 📝 Registering IP on Story Protocol... {"name":"Sigma Music Remix"}
+2025-12-11 14:05:03 [info]: ✅ IP registered successfully! {"ipId":"0xB608d47262Edb664B14Cf53d574D5a10784e6234","txHash":"0x78dce023efc5dc17981750a3fe24536899849576e4e9e377cf52d69a952b747c","tokenId":"3777"}
+2025-12-11 14:05:03 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 14:05:03 [info]: 🔍 Scanning Google for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 14:05:03 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 14:05:09 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 14:05:09 [info]: No Google results found
+2025-12-11 14:05:09 [info]: ✅ Google scan complete: 0 potential matches found
+2025-12-11 14:05:26 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 14:05:26 [info]: Initializing Story Protocol client...
+2025-12-11 14:05:27 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 14:05:27 [info]: 📝 Registering IP on Story Protocol... {"name":"Sigma Music Remix"}
+2025-12-11 14:05:33 [info]: ✅ IP registered successfully! {"ipId":"0xA1aAad46b518F9c2F553D848D98e72740C1D9c0F","txHash":"0xa043669e495f588328cbbfe48d95233929c1d67f7d7e0170b3480727a21274d3","tokenId":"3778"}
+2025-12-11 14:05:33 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 14:05:33 [info]: 🔍 Scanning Google for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 14:05:33 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Sigma Music Remix"}
+2025-12-11 14:05:35 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 14:05:37 [info]: No Google results found
+2025-12-11 14:05:37 [info]: ✅ Google scan complete: 0 potential matches found
+2025-12-11 14:06:40 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 14:07:41 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-11 14:08:41 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-11 14:19:35 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 14:20:04 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 14:20:04 [info]: 🤖 Starting bot...
+2025-12-11 14:20:04 [info]: 🚀 Initializing IP Whisperer Agent...
+2025-12-11 14:20:04 [info]: Initializing Story Protocol client...
+2025-12-11 14:20:04 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 14:20:04 [info]: ⏰ Background scanning started (every 5 minutes)
+2025-12-11 14:20:04 [info]: ✅ Agent orchestrator ready!
+2025-12-11 14:25:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 14:25:00 [info]: ✅ Scheduled scan complete
+2025-12-11 14:27:29 [info]: 🛡️ Processing IP protection request... {"userId":"1718821080"}
+2025-12-11 14:27:29 [info]: 📝 Registering IP on Story Protocol... {"name":"Redonari Art"}
+2025-12-11 14:28:21 [error]: ❌ IP registration failed {"error":"Failed to register IP Asset: The request took too long to respond.\n\nURL: https://aeneid.storyrpc.io\nRequest body: {\"method\":\"eth_getBlockByNumber\",\"params\":[\"0xb8aaa7\",true]}\n\nDetails: The request timed out.\nVersion: viem@1.21.3"}
+2025-12-11 14:29:02 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 14:29:02 [info]: 🤖 Starting bot...
+2025-12-11 14:29:02 [info]: 🚀 Initializing IP Whisperer Agent...
+2025-12-11 14:29:02 [info]: Initializing Story Protocol client...
+2025-12-11 14:29:02 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 14:29:02 [info]: ⏰ Background scanning started (every 5 minutes)
+2025-12-11 14:29:02 [info]: ✅ Agent orchestrator ready!
+2025-12-11 14:30:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 14:30:00 [info]: ✅ Scheduled scan complete
+2025-12-11 14:30:32 [info]: 🛡️ Processing IP protection request... {"userId":"1718821080"}
+2025-12-11 14:30:32 [info]: 📝 Registering IP on Story Protocol... {"name":"Shadow Stake"}
+2025-12-11 14:30:43 [info]: ✅ IP registered successfully! {"ipId":"0x4EC0fBBb5Ca10202587484eDC51df1874dF5bc06","txHash":"0xf6b21c62183bd49064ab3836b542c2207e26a71f70a7ce0b990d9a69dc0b0a12","tokenId":"3780"}
+2025-12-11 14:30:43 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 14:30:43 [info]: 🔍 Scanning Google for infringements... {"ipName":"Shadow Stake"}
+2025-12-11 14:30:43 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Shadow Stake"}
+2025-12-11 14:30:43 [debug]: Similarity score: 0.00 for content: RT @Ox_ranny: 🚨 https://t.co/...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.05 for content: @CASIIBRO Slot - Gates of Olym...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.12 for content: RT @soniccitynet: Sonic X Shad...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.09 for content: @Queenfavy99 @KaitoAI Let's st...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.00 for content: RT @AquaFluxPro: Quick refresh...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.03 for content: Congratulations to the winners...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.05 for content: RT @VitriBoost: 🚀 Get in earl...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.17 for content: @Stake Deadlysam...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.00 for content: RT @nancyayot: We are at #RNBL...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.08 for content: @JuicyFruityyy @Stake Username...
+2025-12-11 14:30:43 [info]: ✅ Twitter scan complete: 0 potential matches found
+2025-12-11 14:30:43 [debug]: Similarity score: 0.10 for content: Infamous: Festival of Blood | ...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.19 for content: Nativity Scene Shadow Stakes F...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.15 for content: Powers | Infamous Wiki | Fando...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.20 for content: Cole MacGrath | Near Pure Good...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.20 for content: Cole MacGrath | Heroes Wiki | ...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.14 for content: Eugene Sims | Death Battle Fan...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.22 for content: Collections Etc Western Horse ...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.08 for content: Zaranga | FlamingoMask Chronic...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.11 for content: Stellaroids | Ultra-Fan Wiki |...
+2025-12-11 14:30:43 [debug]: Similarity score: 0.14 for content: Taokaka | FlamingoMask Chronic...
+2025-12-11 14:30:43 [info]: ✅ Google scan complete: 0 potential matches found
+2025-12-11 14:30:43 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-11 14:30:43 [info]: ✅ IP protection activated {"ipId":"0x4EC0fBBb5Ca10202587484eDC51df1874dF5bc06","matches":0}
+2025-12-11 14:35:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 14:35:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 14:35:00 [info]: 🔍 Scanning Google for infringements... {"ipName":"Shadow Stake"}
+2025-12-11 14:35:00 [debug]: 📦 Returning cached Google results
+2025-12-11 14:35:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Shadow Stake"}
+2025-12-11 14:35:00 [debug]: 📦 Returning cached Twitter results
+2025-12-11 14:35:00 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-11 14:35:00 [info]: ✅ Scheduled scan complete
+2025-12-11 14:40:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 14:40:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 14:40:00 [info]: 🔍 Scanning Google for infringements... {"ipName":"Shadow Stake"}
+2025-12-11 14:40:00 [debug]: 📦 Returning cached Google results
+2025-12-11 14:40:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Shadow Stake"}
+2025-12-11 14:40:08 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 14:40:35 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 14:40:35 [info]: 🤖 Starting bot...
+2025-12-11 14:40:35 [info]: 🚀 Initializing IP Whisperer Agent...
+2025-12-11 14:40:35 [info]: Initializing Story Protocol client...
+2025-12-11 14:40:35 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 14:40:35 [info]: ⏰ Background scanning started (every 5 minutes)
+2025-12-11 14:40:35 [info]: ✅ Agent orchestrator ready!
+2025-12-11 14:45:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 14:45:00 [info]: ✅ Scheduled scan complete
+2025-12-11 14:50:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 14:50:00 [info]: ✅ Scheduled scan complete
+2025-12-11 14:55:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 14:55:00 [info]: ✅ Scheduled scan complete
+2025-12-11 15:00:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 15:00:00 [info]: ✅ Scheduled scan complete
+2025-12-11 15:05:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 15:05:00 [info]: ✅ Scheduled scan complete
+2025-12-11 15:10:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 15:10:00 [info]: ✅ Scheduled scan complete
+2025-12-11 22:09:52 [info]: Initializing Story Protocol client...
+2025-12-11 22:09:52 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 22:16:31 [info]: Initializing Story Protocol client...
+2025-12-11 22:16:31 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 22:16:31 [info]: 📝 Registering IP on Story Protocol... {"name":"Test IP Asset 1765471591620"}
+2025-12-11 22:16:31 [info]: Uploading metadata to IPFS...
+2025-12-11 22:16:33 [error]: Failed to upload JSON to IPFS {"error":"Authentication failed: {\"error\":{\"reason\":\"NO_SCOPES_FOUND\",\"details\":\"This key does not have the required scopes associated with it\"}}"}
+2025-12-11 22:16:33 [error]: Failed to upload metadata to IPFS, falling back to mock hashes if in dev mode, or failing {"error":"Authentication failed: {\"error\":{\"reason\":\"NO_SCOPES_FOUND\",\"details\":\"This key does not have the required scopes associated with it\"}}"}
+2025-12-11 22:16:33 [error]: ❌ IP registration failed {"error":"Authentication failed: {\"error\":{\"reason\":\"NO_SCOPES_FOUND\",\"details\":\"This key does not have the required scopes associated with it\"}}"}
+2025-12-11 22:20:13 [info]: Initializing Story Protocol client...
+2025-12-11 22:20:13 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 22:20:13 [info]: 📝 Registering IP on Story Protocol... {"name":"Test IP Asset 1765471813336"}
+2025-12-11 22:20:13 [info]: Uploading metadata to IPFS...
+2025-12-11 22:20:15 [info]: Uploaded JSON to IPFS: bafkreihssh3mbmzxub3hu6latqm5ilbhjrlldmzrh2c5pykuysjlmue3vq
+2025-12-11 22:20:16 [info]: Uploaded JSON to IPFS: bafkreiekw25cgxvxybw5u7a2ak3epuqw7eb7t7fpqjg45birpvqlvxrqfm
+2025-12-11 22:20:16 [info]: Metadata uploaded {"ipIpfsHash":"bafkreihssh3mbmzxub3hu6latqm5ilbhjrlldmzrh2c5pykuysjlmue3vq","nftIpfsHash":"bafkreiekw25cgxvxybw5u7a2ak3epuqw7eb7t7fpqjg45birpvqlvxrqfm"}
+2025-12-11 22:20:32 [info]: ✅ IP registered successfully! {"ipId":"0x09D7F1406d166885AcefFBB4D93dc9143DC7d3B2","txHash":"0x99b2b69203d6c1b719e5704927c7c2b40b37f10e4b694d6f18d2e1f2b90ff9d1","tokenId":"3799"}
+2025-12-11 22:22:40 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 22:22:40 [info]: 🤖 Starting bot...
+2025-12-11 22:22:40 [info]: 🚀 Initializing IP Whisperer Agent...
+2025-12-11 22:22:40 [info]: Initializing Story Protocol client...
+2025-12-11 22:22:40 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 22:22:40 [info]: ⏰ Background scanning started (every 5 minutes)
+2025-12-11 22:22:40 [info]: ✅ Agent orchestrator ready!
+2025-12-11 22:25:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 22:25:00 [info]: ✅ Scheduled scan complete
+2025-12-11 22:28:01 [info]: 🛡️ Processing IP protection request... {"userId":"1718821080"}
+2025-12-11 22:28:01 [info]: 📝 Registering IP on Story Protocol... {"name":"Shadow stake saga"}
+2025-12-11 22:28:01 [info]: Uploading metadata to IPFS...
+2025-12-11 22:28:07 [info]: Uploaded JSON to IPFS: bafkreics26jmrvcw5p3hmlxaregka4vzoeiqigmqcdni63b5gxygmahonq
+2025-12-11 22:28:09 [info]: Uploaded JSON to IPFS: bafkreifmcb3nfymarhnsocp2g5xczbrhh57724zlmwiuxhy2fwunn6wzci
+2025-12-11 22:28:09 [info]: Metadata uploaded {"ipIpfsHash":"bafkreics26jmrvcw5p3hmlxaregka4vzoeiqigmqcdni63b5gxygmahonq","nftIpfsHash":"bafkreifmcb3nfymarhnsocp2g5xczbrhh57724zlmwiuxhy2fwunn6wzci"}
+2025-12-11 22:28:22 [info]: ✅ IP registered successfully! {"ipId":"0x62ee7550dd83e3551A51b139783703B173B5D790","txHash":"0xf69681cd8524e146d94a5b1060ab543db19ee47725da657d24d6867015853b0c","tokenId":"3806"}
+2025-12-11 22:28:22 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 22:28:22 [info]: 🔍 Scanning Google for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 22:28:22 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 22:28:23 [info]: No Google results found
+2025-12-11 22:28:23 [info]: ✅ Google scan complete: 0 potential matches found
+2025-12-11 22:28:23 [debug]: Similarity score: 0.05 for content: The craving that I have to num...
+2025-12-11 22:28:23 [debug]: Similarity score: 0.04 for content: RT @EastVeterans: This appears...
+2025-12-11 22:28:23 [debug]: Similarity score: 0.02 for content: Maximize your HYPE strategy wi...
+2025-12-11 22:28:23 [debug]: Similarity score: 0.04 for content: Don't miss the epic return of ...
+2025-12-11 22:28:23 [debug]: Similarity score: 0.06 for content: @superultradone You say crazy....
+2025-12-11 22:28:23 [debug]: Similarity score: 0.03 for content: @PaulGoldEagle Evil people In ...
+2025-12-11 22:28:23 [debug]: Similarity score: 0.06 for content: RT @Stake: Stake Poker Christm...
+2025-12-11 22:28:23 [debug]: Similarity score: 0.04 for content: RT @iJermaine360: Satan &amp; ...
+2025-12-11 22:28:23 [debug]: Similarity score: 0.03 for content: RT @Sonic_Hedgeblog: Photos of...
+2025-12-11 22:28:23 [debug]: Similarity score: 0.08 for content: @realdesigambler @Stake @grok ...
+2025-12-11 22:28:23 [info]: ✅ Twitter scan complete: 0 potential matches found
+2025-12-11 22:28:23 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-11 22:28:23 [info]: ✅ IP protection activated {"ipId":"0x62ee7550dd83e3551A51b139783703B173B5D790","matches":0}
+2025-12-11 22:30:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 22:30:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 22:30:00 [info]: 🔍 Scanning Google for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 22:30:00 [debug]: 📦 Returning cached Google results
+2025-12-11 22:30:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 22:30:00 [debug]: 📦 Returning cached Twitter results
+2025-12-11 22:30:00 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-11 22:30:00 [info]: ✅ Scheduled scan complete
+2025-12-11 22:35:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 22:35:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 22:35:00 [info]: 🔍 Scanning Google for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 22:35:00 [debug]: 📦 Returning cached Google results
+2025-12-11 22:35:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 22:35:11 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 22:36:17 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 22:37:18 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-11 22:38:35 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-11 22:38:35 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 429"}
+2025-12-11 22:38:35 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-11 22:38:35 [info]: ✅ Scheduled scan complete
+2025-12-11 22:40:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 22:40:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 22:40:00 [info]: 🔍 Scanning Google for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 22:40:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 22:40:00 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 22:40:00 [info]: No Google results found
+2025-12-11 22:40:00 [info]: ✅ Google scan complete: 0 potential matches found
+2025-12-11 22:41:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 22:42:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-11 22:43:02 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-11 22:43:02 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 429"}
+2025-12-11 22:43:02 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-11 22:43:02 [info]: ✅ Scheduled scan complete
+2025-12-11 22:45:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 22:45:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 22:45:00 [info]: 🔍 Scanning Google for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 22:45:00 [debug]: 📦 Returning cached Google results
+2025-12-11 22:45:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 22:45:00 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 22:46:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 22:47:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-11 22:48:12 [error]: ❌ Twitter API error {"error":"Request failed with status code 503"}
+2025-12-11 22:48:12 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 503"}
+2025-12-11 22:48:12 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-11 22:48:12 [info]: ✅ Scheduled scan complete
+2025-12-11 22:50:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 22:50:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 22:50:00 [info]: 🔍 Scanning Google for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 22:50:00 [debug]: 📦 Returning cached Google results
+2025-12-11 22:50:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 22:50:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 22:51:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 22:52:02 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-11 22:53:02 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-11 22:53:02 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 429"}
+2025-12-11 22:53:02 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-11 22:53:02 [info]: ✅ Scheduled scan complete
+2025-12-11 22:55:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 22:55:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 22:55:00 [info]: 🔍 Scanning Google for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 22:55:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 22:55:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 22:55:01 [info]: No Google results found
+2025-12-11 22:55:01 [info]: ✅ Google scan complete: 0 potential matches found
+2025-12-11 22:56:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 22:57:02 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-11 22:58:02 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-11 22:58:02 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 429"}
+2025-12-11 22:58:02 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-11 22:58:02 [info]: ✅ Scheduled scan complete
+2025-12-11 23:00:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 23:00:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 23:00:00 [info]: 🔍 Scanning Google for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 23:00:00 [debug]: 📦 Returning cached Google results
+2025-12-11 23:00:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 23:00:00 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 23:01:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 23:02:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-11 23:03:02 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-11 23:03:02 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 429"}
+2025-12-11 23:03:02 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-11 23:03:02 [info]: ✅ Scheduled scan complete
+2025-12-11 23:05:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 23:05:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 23:05:00 [info]: 🔍 Scanning Google for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 23:05:00 [debug]: 📦 Returning cached Google results
+2025-12-11 23:05:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 23:05:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 23:06:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 23:07:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-11 23:08:02 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-11 23:08:02 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 429"}
+2025-12-11 23:08:02 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-11 23:08:02 [info]: ✅ Scheduled scan complete
+2025-12-11 23:10:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 23:10:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 23:10:00 [info]: 🔍 Scanning Google for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 23:10:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 23:10:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 23:10:01 [info]: No Google results found
+2025-12-11 23:10:01 [info]: ✅ Google scan complete: 0 potential matches found
+2025-12-11 23:11:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 23:12:02 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-11 23:13:02 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-11 23:13:02 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 429"}
+2025-12-11 23:13:02 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-11 23:13:02 [info]: ✅ Scheduled scan complete
+2025-12-11 23:15:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 23:15:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 23:15:00 [info]: 🔍 Scanning Google for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 23:15:00 [debug]: 📦 Returning cached Google results
+2025-12-11 23:15:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 23:15:00 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 23:16:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 23:17:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-11 23:18:01 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-11 23:18:01 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 429"}
+2025-12-11 23:18:01 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-11 23:18:01 [info]: ✅ Scheduled scan complete
+2025-12-11 23:20:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 23:20:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 23:20:00 [info]: 🔍 Scanning Google for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 23:20:00 [debug]: 📦 Returning cached Google results
+2025-12-11 23:20:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 23:20:00 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 23:21:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 23:22:02 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-11 23:23:02 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-11 23:23:02 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 429"}
+2025-12-11 23:23:02 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-11 23:23:02 [info]: ✅ Scheduled scan complete
+2025-12-11 23:25:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 23:25:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 23:25:00 [info]: 🔍 Scanning Google for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 23:25:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 23:25:01 [info]: No Google results found
+2025-12-11 23:25:01 [info]: ✅ Google scan complete: 0 potential matches found
+2025-12-11 23:25:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 23:26:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 23:27:02 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-11 23:28:02 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-11 23:28:02 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 429"}
+2025-12-11 23:28:02 [info]: ✅ Comprehensive scan complete: 0 total matches
+2025-12-11 23:28:02 [info]: ✅ Scheduled scan complete
+2025-12-11 23:30:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 23:30:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 23:30:00 [info]: 🔍 Scanning Google for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 23:30:00 [debug]: 📦 Returning cached Google results
+2025-12-11 23:30:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Shadow stake saga"}
+2025-12-11 23:30:00 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 23:31:05 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 23:32:07 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 23:32:07 [info]: 🤖 Starting bot...
+2025-12-11 23:32:07 [info]: 🚀 Initializing IP Whisperer Agent...
+2025-12-11 23:32:07 [info]: Initializing Story Protocol client...
+2025-12-11 23:32:07 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 23:32:07 [info]: ⏰ Background scanning started (every 5 minutes)
+2025-12-11 23:32:07 [info]: ✅ Agent orchestrator ready!
+2025-12-11 23:32:21 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 23:32:21 [info]: 🤖 Starting bot...
+2025-12-11 23:32:21 [info]: 🚀 Initializing IP Whisperer Agent...
+2025-12-11 23:32:21 [info]: Initializing Story Protocol client...
+2025-12-11 23:32:21 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 23:32:21 [info]: ⏰ Background scanning started (every 5 minutes)
+2025-12-11 23:32:21 [info]: ✅ Agent orchestrator ready!
+2025-12-11 23:32:24 [error]: Fatal {"error":"409: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}
+2025-12-11 23:34:59 [info]: 🛡️ Processing IP protection request... {"userId":"1718821080"}
+2025-12-11 23:34:59 [info]: 📝 Registering IP on Story Protocol... {"name":"Bitcoin Whitepaper"}
+2025-12-11 23:34:59 [info]: Uploading metadata to IPFS...
+2025-12-11 23:35:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 23:35:00 [info]: ✅ Scheduled scan complete
+2025-12-11 23:35:01 [info]: Uploaded JSON to IPFS: bafkreiemarf6xzwpruoy72zkllq36zewvy77jouu6tbo7rfmfhwavsedui
+2025-12-11 23:35:02 [info]: Uploaded JSON to IPFS: bafkreihq5ipampgazojoq2lk2y3q5ahjshia75f4ezmp7dgx5hydocoxke
+2025-12-11 23:35:02 [info]: Metadata uploaded {"ipIpfsHash":"bafkreiemarf6xzwpruoy72zkllq36zewvy77jouu6tbo7rfmfhwavsedui","nftIpfsHash":"bafkreihq5ipampgazojoq2lk2y3q5ahjshia75f4ezmp7dgx5hydocoxke"}
+2025-12-11 23:35:11 [info]: ✅ IP registered successfully! {"ipId":"0x0c9c0f3d3E7D53734cEe8f141DAD7B7Ae88c78BE","txHash":"0xd680597c545178b5ae2edac937031005681227a1563235328227271e84060b4b","tokenId":"3813"}
+2025-12-11 23:35:11 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 23:35:11 [info]: 🔍 Scanning Google for infringements... {"ipName":"Bitcoin Whitepaper"}
+2025-12-11 23:35:11 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Bitcoin Whitepaper"}
+2025-12-11 23:35:11 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 23:35:12 [debug]: Similarity score: 0.44 for content: Bitcoin: A Peer-to-Peer Electr...
+2025-12-11 23:35:12 [debug]: Similarity score: 0.34 for content: Bitcoin: A Peer-to-Peer Electr...
+2025-12-11 23:35:12 [debug]: Similarity score: 0.83 for content: The bitcoin whitepaper | BTC D...
+2025-12-11 23:35:12 [debug]: Similarity score: 0.21 for content: DSM: Decentralized State Machi...
+2025-12-11 23:35:12 [debug]: Similarity score: 0.25 for content: What It Takes: Scaling Payment...
+2025-12-11 23:35:12 [debug]: Similarity score: 0.34 for content: What is Bitcoin? - Zumo ... pu...
+2025-12-11 23:35:12 [debug]: Similarity score: 0.22 for content: Fractional Funding For Interna...
+2025-12-11 23:35:12 [debug]: Similarity score: 0.27 for content: Bitcoin whitepaper to make For...
+2025-12-11 23:35:12 [debug]: Similarity score: 0.32 for content: #SEC confirmed BNY MELON bank ...
+2025-12-11 23:35:12 [debug]: Similarity score: 0.18 for content: Satoshi Nakamoto Jun 4, 2019 ....
+2025-12-11 23:35:12 [info]: ✅ Google scan complete: 1 potential matches found
+2025-12-11 23:36:12 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 23:36:29 [error]: Bot error {"error":"Promise timed out after 90000 milliseconds"}
+2025-12-11 23:36:55 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 23:36:55 [info]: 🤖 Starting bot...
+2025-12-11 23:36:55 [info]: 🚀 Initializing IP Whisperer Agent...
+2025-12-11 23:36:55 [info]: Initializing Story Protocol client...
+2025-12-11 23:36:55 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 23:36:55 [info]: ⏰ Background scanning started (every 5 minutes)
+2025-12-11 23:36:55 [info]: ✅ Agent orchestrator ready!
+2025-12-11 23:38:51 [info]: 🛡️ Processing IP protection request... {"userId":"1718821080"}
+2025-12-11 23:38:51 [info]: 📝 Registering IP on Story Protocol... {"name":"Bitcoin Whitepaper"}
+2025-12-11 23:38:51 [info]: Uploading metadata to IPFS...
+2025-12-11 23:38:53 [info]: Uploaded JSON to IPFS: bafkreiffmer5vatlgr5ihausnlzdmh66oigzvehg7vcsesrcogqhxnw7za
+2025-12-11 23:38:54 [info]: Uploaded JSON to IPFS: bafkreictnuooxxhskxpvgync77fhtm4tpc2lqzmi5ufgj73ozhigcru65m
+2025-12-11 23:38:54 [info]: Metadata uploaded {"ipIpfsHash":"bafkreiffmer5vatlgr5ihausnlzdmh66oigzvehg7vcsesrcogqhxnw7za","nftIpfsHash":"bafkreictnuooxxhskxpvgync77fhtm4tpc2lqzmi5ufgj73ozhigcru65m"}
+2025-12-11 23:39:07 [info]: ✅ IP registered successfully! {"ipId":"0x98b0533828B436Ae67BA88B606E7d0fde36fbbFD","txHash":"0x3754dceaddcc0716fafe96ca077c15116e356a52b431dd7895ae4a2465fa06ea","tokenId":"3814"}
+2025-12-11 23:39:07 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 23:39:07 [info]: 🔍 Scanning Google for infringements... {"ipName":"Bitcoin Whitepaper"}
+2025-12-11 23:39:07 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Bitcoin Whitepaper"}
+2025-12-11 23:39:08 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 23:39:08 [debug]: Similarity score: 0.44 for content: Bitcoin: A Peer-to-Peer Electr...
+2025-12-11 23:39:08 [debug]: Similarity score: 0.34 for content: Bitcoin: A Peer-to-Peer Electr...
+2025-12-11 23:39:08 [debug]: Similarity score: 0.83 for content: The bitcoin whitepaper | BTC D...
+2025-12-11 23:39:08 [debug]: Similarity score: 0.21 for content: DSM: Decentralized State Machi...
+2025-12-11 23:39:08 [debug]: Similarity score: 0.25 for content: What It Takes: Scaling Payment...
+2025-12-11 23:39:08 [debug]: Similarity score: 0.34 for content: What is Bitcoin? - Zumo ... pu...
+2025-12-11 23:39:08 [debug]: Similarity score: 0.22 for content: Fractional Funding For Interna...
+2025-12-11 23:39:08 [debug]: Similarity score: 0.27 for content: Bitcoin whitepaper to make For...
+2025-12-11 23:39:08 [debug]: Similarity score: 0.32 for content: #SEC confirmed BNY MELON bank ...
+2025-12-11 23:39:08 [debug]: Similarity score: 0.18 for content: Satoshi Nakamoto Jun 4, 2019 ....
+2025-12-11 23:39:08 [info]: ✅ Google scan complete: 1 potential matches found
+2025-12-11 23:40:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 23:40:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 23:40:00 [info]: 🔍 Scanning Google for infringements... {"ipName":"Bitcoin Whitepaper"}
+2025-12-11 23:40:00 [debug]: 📦 Returning cached Google results
+2025-12-11 23:40:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Bitcoin Whitepaper"}
+2025-12-11 23:40:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 23:40:08 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 23:40:21 [error]: Bot error {"error":"Promise timed out after 90000 milliseconds"}
+2025-12-11 23:41:01 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 23:41:09 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-11 23:42:02 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (1 retries left)
+2025-12-11 23:42:09 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-11 23:42:09 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 429"}
+2025-12-11 23:42:09 [info]: ✅ Comprehensive scan complete: 1 total matches
+2025-12-11 23:42:09 [info]: ✅ IP protection activated {"ipId":"0x98b0533828B436Ae67BA88B606E7d0fde36fbbFD","matches":1}
+2025-12-11 23:43:03 [error]: ❌ Twitter API error {"error":"Request failed with status code 429"}
+2025-12-11 23:43:03 [error]: ❌ Twitter scan failed {"error":"Request failed with status code 429"}
+2025-12-11 23:43:03 [info]: ✅ Comprehensive scan complete: 1 total matches
+2025-12-11 23:43:03 [warn]: ⚠️ Found 1 potential infringements for Bitcoin Whitepaper {"ipId":"0x98b0533828B436Ae67BA88B606E7d0fde36fbbFD"}
+2025-12-11 23:43:03 [info]: ✅ Scheduled scan complete
+2025-12-11 23:44:58 [info]: 🚨 Initiating enforcement action... {"ipId":"0x98b0533828B436Ae67BA88B606E7d0fde36fbbFD","violationUrl":"https://btcdirect.eu/en-eu/whitepaper"}
+2025-12-11 23:44:58 [info]: ✍️  Generating enforcement message... {"tone":"friendly","provider":"ABV"}
+2025-12-11 23:44:58 [debug]: 🚀 Using ABV gateway (GenAI Challenge mode)
+2025-12-11 23:45:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 23:45:00 [info]: 🌐 Running comprehensive scan across platforms...
+2025-12-11 23:45:00 [info]: 🔍 Scanning Google for infringements... {"ipName":"Bitcoin Whitepaper"}
+2025-12-11 23:45:00 [debug]: 📦 Returning cached Google results
+2025-12-11 23:45:00 [info]: 🔍 Scanning Twitter/X for infringements... {"ipName":"Bitcoin Whitepaper"}
+2025-12-11 23:45:00 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (3 retries left)
+2025-12-11 23:45:10 [info]: ✅ Enforcement message generated via ABV
+2025-12-11 23:45:10 [info]: 🚨 Creating dispute for IP infringement... {"ipId":"0x98b0533828B436Ae67BA88B606E7d0fde36fbbFD"}
+2025-12-11 23:45:13 [error]: ❌ Dispute creation failed {"error":"Failed to raise dispute: Non-base58btc character","stack":"Error: Non-base58btc character\n    at decode (/home/arpit/Desktop/hackathon_projects/Arena_agent/ip-whisperer/node_modules/multiformats/cjs/vendor/base-x.js:125:11)\n    at Decoder.decode [as baseDecode] (/home/arpit/Desktop/hackathon_projects/Arena_agent/ip-whisperer/node_modules/multiformats/cjs/src/bases/base.js:90:34)\n    at Decoder.decode (/home/arpit/Desktop/hackathon_projects/Arena_agent/ip-whisperer/node_modules/multiformats/cjs/src/bases/base.js:37:19)\n    at Codec.decode (/home/arpit/Desktop/hackathon_projects/Arena_agent/ip-whisperer/node_modules/multiformats/cjs/src/bases/base.js:80:25)\n    at parseCIDtoBytes (/home/arpit/Desktop/hackathon_projects/Arena_agent/ip-whisperer/node_modules/multiformats/cjs/src/cid.js:216:17)\n    at CID.parse (/home/arpit/Desktop/hackathon_projects/Arena_agent/ip-whisperer/node_modules/multiformats/cjs/src/cid.js:204:29)\n    at convertCIDtoHashIPFS (/home/arpit/Desktop/hackathon_projects/Arena_agent/ip-whisperer/node_modules/@story-protocol/core-sdk/dist/story-protocol-core-sdk.cjs.dev.js:3918:27)\n    at DisputeClient.<anonymous> (/home/arpit/Desktop/hackathon_projects/Arena_agent/ip-whisperer/node_modules/@story-protocol/core-sdk/dist/story-protocol-core-sdk.cjs.dev.js:4286:38)\n    at Generator.<anonymous> (/home/arpit/Desktop/hackathon_projects/Arena_agent/ip-whisperer/node_modules/@story-protocol/core-sdk/dist/story-protocol-core-sdk.cjs.dev.js:106:51)\n    at Generator.next (/home/arpit/Desktop/hackathon_projects/Arena_agent/ip-whisperer/node_modules/@story-protocol/core-sdk/dist/story-protocol-core-sdk.cjs.dev.js:44:21)"}
+2025-12-11 23:45:15 [debug]: 📤 Alert sent to webhook
+2025-12-11 23:45:15 [info]: ✅ Enforcement action completed {"disputeId":"0xDISPUTE_1765476913176"}
+2025-12-11 23:46:00 [warn]: ⚠️ Twitter rate limit hit. Waiting 60s before retry... (2 retries left)
+2025-12-11 23:46:16 [info]: ✅ ABV client initialized (GenAI Challenge mode)
+2025-12-11 23:46:16 [info]: 🤖 Starting bot...
+2025-12-11 23:46:16 [info]: 🚀 Initializing IP Whisperer Agent...
+2025-12-11 23:46:16 [info]: Initializing Story Protocol client...
+2025-12-11 23:46:16 [info]: ✅ Story Protocol client initialized {"address":"0xAd0799D4D6564c945C448D8BcFA890c41e111A98"}
+2025-12-11 23:46:16 [info]: ⏰ Background scanning started (every 5 minutes)
+2025-12-11 23:46:16 [info]: ✅ Agent orchestrator ready!
+2025-12-11 23:50:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 23:50:00 [info]: ✅ Scheduled scan complete
+2025-12-11 23:55:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-11 23:55:00 [info]: ✅ Scheduled scan complete
+2025-12-12 00:00:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-12 00:00:00 [info]: ✅ Scheduled scan complete
+2025-12-12 00:05:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-12 00:05:00 [info]: ✅ Scheduled scan complete
+2025-12-12 00:10:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-12 00:10:00 [info]: ✅ Scheduled scan complete
+2025-12-12 00:15:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-12 00:15:00 [info]: ✅ Scheduled scan complete
+2025-12-12 00:20:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-12 00:20:00 [info]: ✅ Scheduled scan complete
+2025-12-12 00:25:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-12 00:25:00 [info]: ✅ Scheduled scan complete
+2025-12-12 00:30:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-12 00:30:00 [info]: ✅ Scheduled scan complete
+2025-12-12 00:35:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-12 00:35:00 [info]: ✅ Scheduled scan complete
+2025-12-12 00:40:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-12 00:40:00 [info]: ✅ Scheduled scan complete
+2025-12-12 00:45:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-12 00:45:00 [info]: ✅ Scheduled scan complete
+2025-12-12 00:50:00 [info]: 🔄 Running scheduled scan for all monitored assets...
+2025-12-12 00:50:00 [info]: ✅ Scheduled scan complete

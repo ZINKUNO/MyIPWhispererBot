@@ -1,0 +1,47 @@
+{
+    "name": "ip-whisperer",
+    "version": "1.0.0",
+    "description": "Chatty Alert Agent for Viral IP Infringement Detection on Story Protocol",
+    "main": "src/bot.js",
+    "type": "module",
+    "scripts": {
+        "start": "node src/bot.js",
+        "dev": "nodemon src/bot.js",
+        "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+        "test:blockchain": "node scripts/test-blockchain.js",
+        "test:demo": "node scripts/demo.js",
+        "test:interactive": "node scripts/test-interactive.js",
+        "test:all": "npm run test:blockchain && npm test && npm run test:demo",
+        "setup": "node scripts/setup.js"
+    },
+    "keywords": [
+        "story-protocol",
+        "ip-protection",
+        "ai-agent",
+        "telegram-bot",
+        "hackathon"
+    ],
+    "author": "IP Whisperer Team",
+    "license": "MIT",
+    "dependencies": {
+        "@abvdev/client": "^0.0.1-beta.7",
+        "@abvdev/otel": "^0.0.1-beta.7",
+        "@abvdev/tracing": "^0.0.1-beta.7",
+        "@opentelemetry/sdk-node": "^0.208.0",
+        "@story-protocol/core-sdk": "^1.0.0",
+        "axios": "^1.6.2",
+        "dotenv": "^16.3.1",
+        "ioredis": "^5.3.2",
+        "natural": "^6.10.4",
+        "node-cron": "^3.0.3",
+        "openai": "^4.24.1",
+        "pinata-web3": "^0.5.4",
+        "telegraf": "^4.15.0",
+        "viem": "^1.19.11",
+        "winston": "^3.11.0"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0",
+        "nodemon": "^3.0.2"
+    }
+}
