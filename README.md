@@ -6,17 +6,19 @@ An AI-powered Telegram bot that protects your creative IP by registering it on S
 
 ## 🎯 What It Does
 
-1. **Register IP** - One-click registration on Story Protocol
-2. **Semantic Scanning** - Monitors Twitter/X for viral clones using AI similarity detection
-3. **Auto-Enforcement** - Generates friendly DMs and registers disputes onchain
-4. **Real-Time Alerts** - Get notified when your IP is used without permission
+1. **Register IP** - One-click registration on Story Protocol with **IPFS metadata** and **Commercial License Terms**.
+2. **Semantic Scanning** - Monitors **Google** and **Twitter/X** for viral clones using AI similarity detection.
+3. **Auto-Enforcement** - Generates friendly DMs and registers disputes onchain.
+4. **Real-Time Alerts** - Get notified when your IP is used without permission.
 
 ## 🚀 Quick Start
 
 ### Prerequisites
 - Node.js 18+
 - Telegram account
-- Story Protocol testnet wallet
+- Story Protocol testnet wallet (Aeneid)
+- **Pinata Account** (for IPFS uploads)
+- **Google Custom Search API Key** (for scanning)
 - OpenAI API key
 
 ### Installation
@@ -35,10 +37,21 @@ cp .env.example .env
 
 2. Fill in your `.env` file:
 ```env
-TELEGRAM_BOT_TOKEN=your_bot_token_from_@BotFather
+# Telegram
+TELEGRAM_BOT_TOKEN=your_bot_token
+
+# Blockchain
 WALLET_PRIVATE_KEY=your_wallet_private_key
+STORY_RPC_URL=https://aeneid.storyrpc.io
+
+# IPFS (Pinata)
+PINATA_JWT=your_pinata_jwt
+
+# AI & Search
 OPENAI_API_KEY=sk-your_openai_key
-STORY_RPC_URL=https://testnet.storyrpc.io
+GOOGLE_API_KEY=your_google_api_key
+GOOGLE_SEARCH_ENGINE_ID=your_search_engine_id
+TWITTER_BEARER_TOKEN=optional_twitter_token
 ```
 
 3. Create logs directory:
@@ -59,12 +72,13 @@ npm run dev
 
 ## 📱 Using the Bot
 
-1. **Start a chat** with your bot on Telegram
-2. Type `/protect` to register new IP
-3. Follow the prompts to describe your work
-4. Bot registers it on Story Protocol and starts monitoring
-5. Get alerts when potential infringements are detected
-6. Use `/enforce` to take action
+1. **Start a chat** with your bot on Telegram.
+2. Type `/protect` to register new IP.
+3. Follow the prompts to describe your work.
+   - **Note:** The bot now uploads your metadata to **IPFS** automatically!
+4. Bot registers it on Story Protocol, attaches **License Terms**, and starts monitoring.
+5. Get alerts when potential infringements are detected on **Google** or **Twitter**.
+6. Use `/enforce` to take action.
 
 ### Commands
 
@@ -76,6 +90,8 @@ npm run dev
 
 ## 🏗️ Architecture
 
+![IP Whisperer Architecture](ip_whisperer_architecture.png)
+
 ```
 User (Telegram)
     ↓
@@ -83,8 +99,11 @@ Bot Interface (Telegraf.js)
     ↓
 Agent Orchestrator
     ↓
-    ├── Story Protocol SDK (IP Registration)
+    ├── Story Protocol SDK (IP Registration & Disputes)
+    │     └── IPFS (Pinata) for Metadata
     ├── Scanner Module (Semantic Search)
+    │     ├── Google Custom Search API (Primary)
+    │     └── Twitter API (Secondary)
     └── Enforcement Engine (OpenAI + Disputes)
 ```
 
@@ -142,11 +161,12 @@ ip-whisperer/
 │   ├── config.js              # Configuration loader
 │   ├── orchestrator.js        # Main agent logic
 │   ├── modules/
-│   │   ├── storyProtocol.js   # Blockchain integration
-│   │   ├── scanner.js         # Semantic scanning
+│   │   ├── storyProtocol.js   # Blockchain integration (Story SDK)
+│   │   ├── scanner.js         # Semantic scanning (Google/Twitter)
 │   │   └── enforcement.js     # Message generation
 │   └── utils/
-│       └── logger.js          # Winston logger
+│       ├── logger.js          # Winston logger
+│       └── ipfs.js            # Pinata IPFS uploader
 ├── logs/                      # Log files
 ├── package.json
 ├── .env                       # Your secrets (not committed)
@@ -156,27 +176,29 @@ ip-whisperer/
 ## 🎓 Hackathon Specific
 
 ### Story Protocol Integration
-- Uses `@story-protocol/core-sdk` for IP registration
-- Registers disputes as onchain assets
-- Testnet deployment ready
+- Uses `@story-protocol/core-sdk` for IP registration.
+- **IPFS Integration:** Automatically uploads IP and NFT metadata to IPFS via Pinata.
+- **License Terms:** Attaches Commercial Remix terms to registered IPs.
+- **Disputes:** Registers disputes as onchain assets.
+- Testnet deployment ready (Aeneid).
 
 ### GenAI IP Registration Challenge
-- OpenAI integration for enforcement message generation
-- Semantic similarity detection using TF-IDF
-- Multiple tone options (friendly, formal, vibe mode)
+- OpenAI integration for enforcement message generation.
+- Semantic similarity detection using TF-IDF.
+- Multiple tone options (friendly, formal, vibe mode).
 
 ### Innovation Points
-1. **Proactive Monitoring** - Background cron jobs scan every 5 minutes
-2. **Blockchain-AI Synergy** - Combines onchain IP with AI detection
-3. **UX Excellence** - Chat-based interface, no complicated dashboards
-4. **Practical Enforcement** - Generates ready-to-send DMs
+1. **Proactive Monitoring** - Background cron jobs scan every 5 minutes using Google & Twitter.
+2. **Blockchain-AI Synergy** - Combines onchain IP with AI detection.
+3. **UX Excellence** - Chat-based interface, no complicated dashboards.
+4. **Practical Enforcement** - Generates ready-to-send DMs.
 
 ## 🔒 Security Notes
 
-- Never commit `.env` file
-- Keep private keys secure
-- Use testnet for hackathon demos
-- API keys are validated on startup
+- Never commit `.env` file.
+- Keep private keys secure.
+- Use testnet for hackathon demos.
+- API keys are validated on startup.
 
 ## 🚢 Deployment
 
@@ -203,17 +225,18 @@ pm2 save
 ## 🐛 Troubleshooting
 
 **Bot not responding?**
-- Check `TELEGRAM_BOT_TOKEN` is correct
-- Verify bot is running: `ps aux | grep node`
+- Check `TELEGRAM_BOT_TOKEN` is correct.
+- Verify bot is running: `ps aux | grep node`.
 
 **Story Protocol errors?**
-- Ensure wallet has testnet ETH
-- Check RPC URL is correct
-- Verify network connectivity
+- Ensure wallet has testnet ETH.
+- Check RPC URL is correct.
+- Verify `PINATA_JWT` is valid for IPFS uploads.
 
 **No scan results?**
-- Twitter API not configured? Uses mock data by default
-- Check similarity threshold in `.env`
+- Check `GOOGLE_API_KEY` and `GOOGLE_SEARCH_ENGINE_ID`.
+- Twitter scanning may be rate-limited (this is normal, Google is primary).
+- Check similarity threshold in `.env`.
 
 ## 📈 Phase 2 Extensions (Optional)
 
@@ -231,7 +254,7 @@ pm2 save
 - ✅ **Practicality**: Solves real creator problem
 - ✅ **UX**: Conversational, mobile-first
 - ✅ **Technical Quality**: Modular, well-documented
-- ✅ **Story Protocol Integration**: Full SDK usage
+- ✅ **Story Protocol Integration**: Full SDK usage with IPFS & Licensing
 - ✅ **Demo Quality**: Live bot, <10s response time
 
 ## 📄 License
