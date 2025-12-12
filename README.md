@@ -82,14 +82,22 @@ npm run dev
 
 3. Follow the prompts to describe your work.
    - **Note:** The bot now uploads your metadata to **IPFS** automatically!
-   <img width="361" height="755" alt="swappy-20251212-154342" src="https://github.com/user-attachments/assets/7bc5ec34-4c81-4538-93e2-5d6ce792a436" />
+<img width="361" height="755" alt="swappy-20251212-154342" src="https://github.com/user-attachments/assets/7bc5ec34-4c81-4538-93e2-5d6ce792a436" />
+   
+<img width="361" height="751" alt="swappy-20251212-154511" src="https://github.com/user-attachments/assets/8b8e1ca6-5835-44a7-99be-9cc0f8da4d5b" />
 
 4. Bot registers it on Story Protocol, attaches **License Terms**, and starts monitoring.
 
+<img width="361" height="759" alt="swappy-20251212-154402" src="https://github.com/user-attachments/assets/967805a1-b262-411f-8b4e-622130258c12" />
+
 5. Get alerts when potential infringements are detected on **Google** or **Twitter**.
+
+<img width="353" height="616" alt="swappy-20251212-154630" src="https://github.com/user-attachments/assets/7d361f44-7074-437d-b0da-3adc01a8b169" />
 
 
 6. Use `/enforce` to take action.
+
+<img width="359" height="757" alt="swappy-20251212-154655" src="https://github.com/user-attachments/assets/9942e17f-f7fc-486a-a457-46e631fa467d" />
 
 
 ### Commands
