@@ -75,12 +75,21 @@ npm run dev
 ## 📱 Using the Bot
 
 1. **Start a chat** with your bot on Telegram.
+<img width="360" height="327" alt="swappy-20251212-153920" src="https://github.com/user-attachments/assets/7c77c0af-fe0e-4a67-b0c6-8605040d36d1" />
+
 2. Type `/protect` to register new IP.
+<img width="360" height="757" alt="swappy-20251212-154309" src="https://github.com/user-attachments/assets/02ca2b44-2a81-42a2-91c9-6bcfc1d84db3" />
+
 3. Follow the prompts to describe your work.
    - **Note:** The bot now uploads your metadata to **IPFS** automatically!
+   
 4. Bot registers it on Story Protocol, attaches **License Terms**, and starts monitoring.
+
 5. Get alerts when potential infringements are detected on **Google** or **Twitter**.
+
+
 6. Use `/enforce` to take action.
+
 
 ### Commands
 
