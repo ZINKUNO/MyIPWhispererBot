@@ -54,6 +54,19 @@ OPENAI_API_KEY=sk-your_openai_key
 GOOGLE_API_KEY=your_google_api_key
 GOOGLE_SEARCH_ENGINE_ID=your_search_engine_id
 TWITTER_BEARER_TOKEN=optional_twitter_token
+
+
+# abv.dev specific (GenAI IP Registration Challenge)
+ABV_API_KEY=sk
+ABV_BASE_URL=https://app.abv.dev
+ABV_REGION=us
+
+
+# Crossmint (for wallet abstraction)
+CROSSMINT_CLIENT_ID=your_crossmint_client_id_here
+CROSSMINT_API_KEY=your_crossmint_api_key_here
+
+
 ```
 
 3. Create logs directory:
