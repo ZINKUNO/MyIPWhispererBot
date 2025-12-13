@@ -168,6 +168,8 @@ ABV_REGION=us
 CROSSMINT_CLIENT_ID=your_crossmint_client_id_here
 CROSSMINT_API_KEY=your_crossmint_api_key_here
 
+# Goldsky (for subgraph queries)
+GOLDSKY_API_KEY=
 
 ```
 
