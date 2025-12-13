@@ -1,28 +1,130 @@
 <img width="445" height="366" alt="image" src="https://github.com/user-attachments/assets/55152bb7-91fe-47af-948d-25e6042b3145" />
 
-# 🤫 IP Whisperer: Chatty Alert Agent for Viral Infringement Sniffing
 
-**Track:** IP Detection & Enforcement | **Buildathon:** Surreal World Assets (Story Protocol)
+# 🤫 IP Whisperer  
+### Autonomous AI Agent for IP Protection on Story Protocol
 
-An AI-powered Telegram bot that protects your creative IP by registering it on Story Protocol blockchain and monitoring social media for infringements.
+**Track:** IP Detection & Enforcement  
+**Buildathon:** Surreal World Assets (Story Protocol)
+
+IP Whisperer is an **AI-powered Telegram bot** that helps creators instantly register, monitor, and enforce their intellectual property using **Story Protocol**, **AI semantic detection**, and **onchain disputes** — all inside a simple chat interface.
+
+---
+
+## 🚨 The Problem
+
+Creativity spreads faster than ever — but so does theft.
+
+- AI-generated content is copied, remixed, and resold without permission  
+- Writers and designers have no visibility into where their work appears  
+- Traditional copyright registration takes weeks  
+- Enforcement is expensive, slow, and inaccessible  
+
+There is **no autonomous system** that:
+- Registers IP instantly  
+- Monitors the internet continuously  
+- Detects plagiarism semantically  
+- Helps creators enforce rights without legal complexity  
+
+---
+
+## 💡 The Solution: IP Whisperer
+
+IP Whisperer is a **self-operating AI agent** that protects creators’ IP in real time.
+
+It allows creators to:
+- Register IP on Story Protocol in under a minute  
+- Store metadata immutably on IPFS  
+- Attach programmable license terms  
+- Monitor the web every 5 minutes  
+- Receive real-time alerts  
+- Enforce rights with one click  
+
+No dashboards. No wallet UI. No blockchain knowledge required.
+
+---
+
+## 🛡️ Live On-Chain Proof (Registered IPs)
+
+These IPs were **actually minted, licensed, and verified on Story Protocol (Aeneid testnet)** during the hackathon.
+
+| IP | IP Asset ID | Transaction | Explorer |
+|----|------------|------------|----------|
+| IP-1 | `0x62ee7550dd83e3551A51b139783703B173B5D790` | `0xf69681cd8524e146d94a5b1060ab543db19ee47725da657d24d6867015853b0c` | [View](https://aeneid.explorer.story.foundation/ipa/0x62ee7550dd83e3551A51b139783703B173B5D790) |
+| IP-2 | `0x400BD0297dFF0bE67350eb29842545EcB727deE2` | `0xfee42295c2e9766eb1e4b17cd302ff69615d13b2ceb89195d6924c4f813d7a3f` | [View](https://aeneid.explorer.story.foundation/ipa/0x400BD0297dFF0bE67350eb29842545EcB727deE2) |
+| IP-3 | `0x36A09D10Bf0afed6373c4f4ba8d38046E4a02114` | `0x1f4200e9762e3ef5823d322edab9945268e41218cb27b20fb6534122babc51b6` | [View](https://aeneid.explorer.story.foundation/ipa/0x36A09D10Bf0afed6373c4f4ba8d38046E4a02114) |
+
+---
+
+## 🎤 Pitch Deck
+
+📊 **Pitch Presentation:**  
+https://docs.google.com/presentation/d/1_UexdIDCs9nhhBG__TOjrxj0CTa0UbV18oAin_K2ifk/edit
+
+---
 
 ## 🎯 What It Does
 
-1. **Register IP** - One-click registration on Story Protocol with **IPFS metadata** and **Commercial License Terms**.
-2. **Semantic Scanning** - Monitors **Google** and **Twitter/X** for viral clones using AI similarity detection.
-3. **Auto-Enforcement** - Generates friendly DMs and registers disputes onchain.
-4. **Real-Time Alerts** - Get notified when your IP is used without permission.
+- **Instant IP Registration**  
+  Registers content as a programmable IP Asset on Story Protocol.
 
-## 🚀 Quick Start
+- **IPFS Metadata Storage**  
+  Uploads metadata and NFT data to IPFS via Pinata.
 
-### Prerequisites
-- Node.js 18+
-- Telegram account
-- Story Protocol testnet wallet (Aeneid)
-- **Pinata Account** (for IPFS uploads)
-- **Google Custom Search API Key** (for scanning)
-- OpenAI API key
+- **Semantic AI Monitoring**  
+  Scans Google and Twitter/X using AI similarity detection (TF-IDF + cosine similarity).
 
+- **Real-Time Alerts**  
+  Sends Telegram alerts when potential infringement is detected.
+
+- **Automated Enforcement**  
+  Generates enforcement messages and registers onchain disputes.
+
+---
+
+## ⚙️ How It Works
+
+1. Creator types `/protect` in Telegram  
+2. Bot collects IP details via chat  
+3. Metadata is generated and uploaded to IPFS  
+4. IP Asset is minted on Story Protocol with license terms  
+5. Background scanners run every 5 minutes  
+6. AI detects semantic matches  
+7. Creator receives alerts  
+8. One-click enforcement triggers AI + onchain dispute  
+
+---
+
+## 🧠 AI, Blockchain & Infra Stack
+
+### Story Protocol
+- IP registration  
+- License attachment  
+- Dispute creation  
+- Ownership verification  
+
+### AI Enforcement (ABV.dev + OpenAI)
+- Enforcement messages generated via ABV-wrapped OpenAI calls  
+- Full AI traceability (prompt, response, latency)  
+- Fallback to OpenAI if ABV gateway fails  
+- Qualifies for **GenAI IP Registration Challenge**
+
+### IPFS (Pinata)
+- Immutable metadata storage  
+- NFT metadata hosting  
+
+### Semantic Scanner
+- Google Custom Search (primary)  
+- Twitter/X API (secondary)  
+- TF-IDF + cosine similarity detection  
+
+### Crossmint (Architected)
+- Wallet abstraction for email-based onboarding  
+- Removes seed phrase complexity for Web2 creators  
+
+### Goldsky (Planned)
+- Index Story Protocol events  
+- Fast querying of IPs, licenses, and disputes  
 ### Installation
 
 ```bash
